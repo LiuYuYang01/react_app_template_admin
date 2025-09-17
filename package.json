@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@heroui/react": "^2.8.2",
     "@tailwindcss/vite": "^4.1.11",
     "@types/node": "^24.1.0",
     "axios": "^1.11.0",
